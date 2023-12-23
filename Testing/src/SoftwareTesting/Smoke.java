@@ -4,7 +4,7 @@ public class Smoke {
 	
 	public void smoke() {
 		
-		System.out.println("This is Smoke Testing");
+		System.out.println("This is Smoke Automation Testing");
 	}
 
 }
